@@ -1,6 +1,6 @@
 질문 ✔ 
 
-1. JavaScript의 자료형과 JavaScript만의 특성은 무엇일까?
+# 1. JavaScript의 자료형과 JavaScript만의 특성은 무엇일까?
  
 
 💁‍♀️   Javascript 의 자료형 
