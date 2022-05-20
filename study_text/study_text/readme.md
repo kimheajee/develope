@@ -3,7 +3,7 @@
 # 1. JavaScript의 자료형과 JavaScript만의 특성은 무엇일까?
  
 
-##💁‍♀️   Javascript 의 자료형 
+## 💁‍♀️   Javascript 의 자료형 
 Primitive(기본형)과 Object(객체) 타입이 존재한다.
 기본적으로 자바스크립트는 인터프리터가 알아서 변수의 타입을 파악하고 값을 저장해, 변수의 타입을 따로 쓰지 않는다.
 
